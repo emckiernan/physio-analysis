@@ -1,3 +1,7 @@
+
+[![DOI](https://zenodo.org/badge/994018857.svg)](https://doi.org/10.5281/zenodo.15740855)
+
+
 ## Analyzing physiological data with multiple observations
 
 #### Erin C. McKiernan<sup>1</sup>, Jorge Humberto Arce Rincón<sup>1</sup>, Araceli Torres Pérez<sup>1</sup>,Marco A. Herrera-Valdez<sup>2</sup>
