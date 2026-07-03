@@ -4,7 +4,7 @@
 
 ## Analyzing physiological data with multiple observations
 
-#### Erin C. McKiernan<sup>1</sup>, Jorge Humberto Arce Rincón<sup>1</sup>, Araceli Torres Pérez<sup>1</sup>,Marco A. Herrera-Valdez<sup>2</sup>
+#### Erin C. McKiernan<sup>1</sup>, HumbertoArce <sup>1</sup>, Araceli Torres<sup>1</sup>,Marco A. Herrera-Valdez<sup>2</sup>
 
 <sup>1 Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México</sup><br/>
 <sup>2 Laboratorio de Dinámica, Biofísica y Fisiología de Sistemas, Departamento de Matemáticas, Facultad de Ciencias, Universidad Nacional Autónoma de México</sup><br/>
@@ -12,4 +12,9 @@
 
 ## Overview
 
-We developed a method to deal with multiple observations from physiological data that ensures that each subject is represented only once in the analysis (i.e. it avoids pseudoreplication), and makes no assumptions about the distribution of the data. We demonstrate this method using two different physiological datasets: (1) muscle recordings taken from Drosophila melanogaster larvae during fictive crawling, and (2) electrocardiogram recordings taken from human volunteers before, during, and after exercise. This repository contains raw data, Python code embedded in Jupyter notebooks, figures, and the manuscript files arising from this project. For reuse conditions, please see our LICENSE.md file. We are preparing a preprint with more information to be posted soon. 
+We developed a method to deal with multiple observations from physiological data that ensures that each subject is represented only once in the analysis (i.e. it avoids pseudoreplication), and makes no assumptions about the distribution of the data. We demonstrate this method using two different physiological datasets: (1) muscle recordings taken from Drosophila melanogaster larvae during fictive crawling, and (2) electrocardiogram recordings taken from human volunteers before, during, and after exercise. This repository contains raw data, Python code embedded in Jupyter notebooks, figures, and the manuscript files arising from this project. For reuse conditions, please see our LICENSE.md file. For more information, see our preprint: 
+
+
+McKiernan, E.C., Arce Rincón, J.H., Torres Pérez, A., & Herrera Valdez, M.A. (2026). A method for analyzing physiological data with multiple non-independent observations. bioRXiv [https://doi.org/10.1101/2025.06.25.661570]([https://doi.org/10.1101/2025.06.25.661570).
+
+Or, read our article soon to be published in the Revista Mexicana de Física. 
