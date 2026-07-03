@@ -16,6 +16,5 @@ We developed a method to deal with multiple observations from physiological data
 
 
 McKiernan, E.C., Arce Rincón, J.H., Torres Pérez, A., & Herrera Valdez, M.A. (2026). A method for analyzing physiological data with multiple non-independent observations. bioRXiv [https://doi.org/10.1101/2025.06.25.661570](https://doi.org/10.1101/2025.06.25.661570)
-.
 
 Or, read our article soon to be published in the Revista Mexicana de Física. 
