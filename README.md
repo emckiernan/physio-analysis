@@ -4,7 +4,7 @@
 
 ## Analyzing physiological data with multiple observations
 
-#### Erin C. McKiernan<sup>1</sup>, HumbertoArce <sup>1</sup>, Araceli Torres<sup>1</sup>,Marco A. Herrera-Valdez<sup>2</sup>
+#### Erin C. McKiernan<sup>1</sup>, Humberto Arce <sup>1</sup>, Araceli Torres<sup>1</sup>, Marco A. Herrera-Valdez<sup>2</sup>
 
 <sup>1 Departamento de Física, Facultad de Ciencias, Universidad Nacional Autónoma de México</sup><br/>
 <sup>2 Laboratorio de Dinámica, Biofísica y Fisiología de Sistemas, Departamento de Matemáticas, Facultad de Ciencias, Universidad Nacional Autónoma de México</sup><br/>
